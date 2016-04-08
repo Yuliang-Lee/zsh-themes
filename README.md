@@ -1,5 +1,5 @@
 # zsh-themes
-用来收集zsh主题的
+用来收集自己喜欢的并且修改过的zsh主题
 
 ##### luffy
 
